@@ -1,2 +1,2 @@
 # a-plane-game
-A simple airplane battle game
+A simple airplane with pygame
